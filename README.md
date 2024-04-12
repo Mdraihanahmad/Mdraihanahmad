@@ -1,7 +1,8 @@
 [![MasterHead](https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif)
 <h1 align="center">Hi 👋, I'm MD RAIHAN</h1>
 <h3 align="center">A passionate frontend developer from India
-I'm a CS Undergrad at IIT Patna</h3>
+                   and
+   I'm a CS Undergrad at IIT Patna</h3>
 <img align="right" alt="Coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdraihanahmad&label=Profile%20views&color=0e75b6&style=flat" alt="mdraihanahmad" /> </p>
