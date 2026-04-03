@@ -74,7 +74,9 @@ python · data · ml/cv
 
 ## Featured
 
-Pinned projects and best work live on my GitHub profile.
+- [Movie-Ticket-Booking-System](https://github.com/Mdraihanahmad/Movie-Ticket-Booking-System) — movie ticket booking system project (end-to-end booking experience).
+- [Crop_Yield_Predictor_Complete_Website](https://github.com/Mdraihanahmad/Crop_Yield_Predictor_Complete_Website) — smart agriculture UI + AI services hub (React/Vite/Tailwind + API).
+- [100-days-of-leetcode](https://github.com/Mdraihanahmad/100-days-of-leetcode) — consistent DSA practice and solutions.
 
 ---
 
