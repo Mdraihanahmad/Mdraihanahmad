@@ -1,63 +1,87 @@
-<h1 align="center">MD Raihan Ahmad</h1>
+<div align="center">
 
-<p align="center">
-   Frontend Developer • CS Undergraduate @ IIT Patna
-</p>
+# MD Raihan Ahmad
 
-<p align="center">
-   <a href="mailto:mdraihanahmad47@gmail.com">Email</a> •
-   <a href="https://www.leetcode.com/mdraihanahmad">LeetCode</a> •
-   <a href="https://instagram.com/md_raihan._7">Instagram</a>
-</p>
+Frontend Developer · CS Undergraduate @ IIT Patna
 
-<p align="center">
-   <img src="https://komarev.com/ghpvc/?username=mdraihanahmad&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<a href="mailto:mdraihanahmad47@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mdraihanahmad47%40gmail.com-informational" /></a>
+<a href="https://www.leetcode.com/mdraihanahmad"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-mdraihanahmad-FFA116" /></a>
+<a href="https://instagram.com/md_raihan._7"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-md__raihan._7-E4405F" /></a>
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=mdraihanahmad&label=Profile%20views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
 
-## About
+## About Me
 
-- Building modern, responsive web UIs with a focus on performance and clean UX.
-- Interested in frontend engineering, data/ML tooling, and shipping end-to-end projects.
-- Currently learning: advanced web dev patterns, tooling, and better system design.
+I build modern, responsive web UIs with a focus on clean UX and performance. I also enjoy Python-based data/ML work and shipping end-to-end projects.
+
+**Currently**
+
+- Building new projects and strengthening core CS fundamentals.
+- Learning: better web architecture, tooling, and system design.
+- Open to collaboration on meaningful projects.
+
+---
 
 ## Tech Stack
 
-**Frontend**: HTML • CSS • JavaScript • (Exploring: TypeScript, React)
+<div align="center">
 
-**Backend / Data**: Node.js • Python • MySQL • Pandas • Seaborn
+<img alt="HTML" src="https://img.shields.io/badge/HTML5-333?logo=html5" />
+<img alt="CSS" src="https://img.shields.io/badge/CSS3-333?logo=css3" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-333?logo=javascript" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-333?logo=nodedotjs" />
+<img alt="Python" src="https://img.shields.io/badge/Python-333?logo=python" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-333?logo=mysql" />
+<img alt="Git" src="https://img.shields.io/badge/Git-333?logo=git" />
+<img alt="AWS" src="https://img.shields.io/badge/AWS-333?logo=amazonwebservices" />
 
-**ML / CV**: OpenCV • TensorFlow • PyTorch • scikit-learn
+</div>
 
-**Tools**: Git • AWS
+| Area | What I use |
+| --- | --- |
+| Frontend | HTML, CSS, JavaScript (exploring TypeScript, React) |
+| Backend / Data | Node.js, Python, MySQL, Pandas, Seaborn |
+| ML / CV | OpenCV, TensorFlow, PyTorch, scikit-learn |
+| Tools | Git, AWS |
 
-## Highlights
+---
 
-- Open to collaboration on impactful projects.
-- Ask me about: Python, data analysis, and web fundamentals.
-
-## Contribution Graph
+## Contribution Snake
 
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdraihanahmad/mdraihanahmad/output/github-contribution-grid-snake-dark.svg" />
    <img alt="github contribution snake" src="https://raw.githubusercontent.com/mdraihanahmad/mdraihanahmad/output/github-contribution-grid-snake.svg" />
 </picture>
 
+---
+
+## Featured
+
+If you pin repositories on your GitHub profile, they’ll show up here on GitHub automatically. If you want, share 2–3 best repos and I’ll add a short, professional “Featured Projects” list with links.
+
+---
+
 ## GitHub Stats
 
-<p align="center">
+<div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=mdraihanahmad&show_icons=true&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdraihanahmad&hide_border=true" alt="GitHub streak" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdraihanahmad&layout=compact&hide_border=true" alt="Top languages" />
-</p>
+</div>
 
 <details>
-   <summary><strong>Trophies</strong></summary>
+   <summary><strong>More (trophies)</strong></summary>
    <br />
-   <p>
+   <div align="center">
       <img src="https://github-profile-trophy.vercel.app/?username=mdraihanahmad&no-frame=true&column=6" alt="GitHub trophies" />
-   </p>
+   </div>
 </details>
+
+---
+
+## Contact
+
+- Email: mdraihanahmad47@gmail.com
