@@ -4,6 +4,8 @@
 
 Frontend Developer · CS Undergraduate @ IIT Patna
 
+<img src="./image/IMG_20250324_133551_0999.jpg" alt="MD Raihan Ahmad" width="180" />
+
 <a href="mailto:mdraihanahmad47@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mdraihanahmad47%40gmail.com-informational" /></a>
 <a href="https://www.linkedin.com/in/md-raihan-ahmad"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-md--raihan--ahmad-0A66C2?logo=linkedin&logoColor=white" /></a>
 <a href="https://www.leetcode.com/mdraihanahmad"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-mdraihanahmad-FFA116" /></a>
@@ -25,7 +27,7 @@ I build modern, responsive web UIs with a focus on clean UX and performance. I a
 - Open to collaboration on meaningful projects.
 
 ```txt
-> whoami
+> who_am_i
 MD Raihan Ahmad
 
 > focus
@@ -79,9 +81,8 @@ Pinned projects and best work live on my GitHub profile.
 ## GitHub Stats
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=mdraihanahmad&show_icons=true&hide_border=true&cache_seconds=21600" alt="GitHub stats" />
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdraihanahmad&hide_border=true" alt="GitHub streak" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdraihanahmad&layout=compact&hide_border=true&cache_seconds=21600" alt="Top languages" />
+
 </div>
 
 <details>
