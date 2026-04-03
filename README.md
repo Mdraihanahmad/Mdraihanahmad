@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Creating New Projects**
 
-- 🌱 I’m currently learning **WEB DEVELOPMENT**
+- 🌱 I’m currently learning **WEB**
 
 - 🤝 I’m looking for help with **AI Virtual Mouse Controller with in-build Voice Assistant**
 
