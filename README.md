@@ -7,7 +7,7 @@ Frontend Developer · CS Undergraduate @ IIT Patna
 <img src="./image/IMG_20250324_133551_0999.jpg" alt="MD Raihan Ahmad" width="180" />
 
 <a href="mailto:mdraihanahmad47@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mdraihanahmad47%40gmail.com-informational" /></a>
-<a href="https://mdraihanahmad.github.io/Portfolio-Series/"><img alt="PORTFOLIO" src="https://img.shields.io/badge/Portfolio%40gmail.com-informational" /></a>
+<a href="https://mdraihanahmad.github.io/Portfolio-Series/"><img alt="PORTFOLIO" src="https://img.shields.io/badge/Portfolio%40-informational" /></a>
 <a href="https://www.linkedin.com/in/md-raihan-ahmad"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-md--raihan--ahmad-0A66C2?logo=linkedin&logoColor=white" /></a>
 <a href="https://www.leetcode.com/mdraihanahmad"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-mdraihanahmad-FFA116" /></a>
 <a href="https://instagram.com/md_raihan._7"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-md__raihan._7-E4405F" /></a>
